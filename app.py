@@ -27,5 +27,3 @@ if st.button("Predecir"):
     # Mostrar el resultado
     st.write(f"La especie de Iris predicha es: {predicted_class}")
 
-# Para mostrar las métricas de evaluación
-st.subheader("Métricas de Evaluación")
